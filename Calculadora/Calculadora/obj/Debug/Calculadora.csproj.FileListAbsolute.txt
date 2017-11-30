@@ -1,0 +1,38 @@
+c:\users\947934\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\947934\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+c:\users\947934\documents\visual studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\947934\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\947934\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+c:\users\947934\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\947934\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+c:\users\947934\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+c:\users\947934\documents\visual studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\947934\Downloads\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\947934\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\947934\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\947934\Downloads\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\947934\Downloads\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\947934\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\947934\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\947934\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\947934\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\julio\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\julio\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\julio\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\julio\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\julio\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\julio\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\julio\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\julio\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\julio\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\julio\Downloads\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\julio\Downloads\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\julio\Downloads\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\julio\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\julio\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\julio\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\julio\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\julio\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\julio\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\julio\Downloads\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

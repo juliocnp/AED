@@ -1,0 +1,10 @@
+﻿189;xterm;6;3
+177;tty7;9;5
+234;grep;4;9
+975;gimp;6;6
+114;steampower;11;11
+981;ls -laR /;2;13
+656;gzip *;3;8
+416;okular;5;5
+238;geany;5;4
+909;gcc;2;9

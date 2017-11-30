@@ -1,0 +1,9 @@
+C:\temp\Recursividade\Recursividade\bin\Debug\Recursividade.exe.config
+C:\temp\Recursividade\Recursividade\bin\Debug\Recursividade.exe
+C:\temp\Recursividade\Recursividade\bin\Debug\Recursividade.pdb
+C:\temp\Recursividade\Recursividade\obj\Debug\Recursividade.csprojResolveAssemblyReference.cache
+C:\temp\Recursividade\Recursividade\obj\Debug\Recursividade.Form1.resources
+C:\temp\Recursividade\Recursividade\obj\Debug\Recursividade.Properties.Resources.resources
+C:\temp\Recursividade\Recursividade\obj\Debug\Recursividade.csproj.GenerateResource.Cache
+C:\temp\Recursividade\Recursividade\obj\Debug\Recursividade.exe
+C:\temp\Recursividade\Recursividade\obj\Debug\Recursividade.pdb

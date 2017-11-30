@@ -1,0 +1,10 @@
+c:\users\947934\documents\visual studio 2015\Projects\Exercicio Arvore\Exercicio Arvore\bin\Debug\Exercicio Arvore.exe.config
+C:\Users\947934\Downloads\Exercicio Arvore\Exercicio Arvore\bin\Debug\Exercicio Arvore.exe.config
+C:\Users\947934\Downloads\Exercicio Arvore\Exercicio Arvore\bin\Debug\Exercicio Arvore.exe
+C:\Users\947934\Downloads\Exercicio Arvore\Exercicio Arvore\bin\Debug\Exercicio Arvore.pdb
+C:\Users\947934\Downloads\Exercicio Arvore\Exercicio Arvore\obj\Debug\Exercicio Arvore.csprojResolveAssemblyReference.cache
+C:\Users\947934\Downloads\Exercicio Arvore\Exercicio Arvore\obj\Debug\Exercicio_Arvore.Form1.resources
+C:\Users\947934\Downloads\Exercicio Arvore\Exercicio Arvore\obj\Debug\Exercicio_Arvore.Properties.Resources.resources
+C:\Users\947934\Downloads\Exercicio Arvore\Exercicio Arvore\obj\Debug\Exercicio Arvore.csproj.GenerateResource.Cache
+C:\Users\947934\Downloads\Exercicio Arvore\Exercicio Arvore\obj\Debug\Exercicio Arvore.exe
+C:\Users\947934\Downloads\Exercicio Arvore\Exercicio Arvore\obj\Debug\Exercicio Arvore.pdb

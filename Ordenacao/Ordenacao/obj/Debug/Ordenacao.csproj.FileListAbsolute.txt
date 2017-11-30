@@ -1,0 +1,18 @@
+c:\users\947934\documents\visual studio 2015\Projects\Ordenacao\Ordenacao\bin\Debug\Ordenacao.exe.config
+c:\users\947934\documents\visual studio 2015\Projects\Ordenacao\Ordenacao\bin\Debug\Ordenacao.exe
+c:\users\947934\documents\visual studio 2015\Projects\Ordenacao\Ordenacao\bin\Debug\Ordenacao.pdb
+c:\users\947934\documents\visual studio 2015\Projects\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csprojResolveAssemblyReference.cache
+c:\users\947934\documents\visual studio 2015\Projects\Ordenacao\Ordenacao\obj\Debug\Ordenacao.Form1.resources
+c:\users\947934\documents\visual studio 2015\Projects\Ordenacao\Ordenacao\obj\Debug\Ordenacao.Properties.Resources.resources
+c:\users\947934\documents\visual studio 2015\Projects\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csproj.GenerateResource.Cache
+c:\users\947934\documents\visual studio 2015\Projects\Ordenacao\Ordenacao\obj\Debug\Ordenacao.exe
+c:\users\947934\documents\visual studio 2015\Projects\Ordenacao\Ordenacao\obj\Debug\Ordenacao.pdb
+C:\Users\947934\Downloads\Ordenacao\Ordenacao\bin\Debug\Ordenacao.exe.config
+C:\Users\947934\Downloads\Ordenacao\Ordenacao\obj\Debug\Ordenacao.exe
+C:\Users\947934\Downloads\Ordenacao\Ordenacao\obj\Debug\Ordenacao.pdb
+C:\Users\947934\Downloads\Ordenacao\Ordenacao\bin\Debug\Ordenacao.exe
+C:\Users\947934\Downloads\Ordenacao\Ordenacao\bin\Debug\Ordenacao.pdb
+C:\Users\947934\Downloads\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csprojResolveAssemblyReference.cache
+C:\Users\947934\Downloads\Ordenacao\Ordenacao\obj\Debug\Ordenacao.Form1.resources
+C:\Users\947934\Downloads\Ordenacao\Ordenacao\obj\Debug\Ordenacao.Properties.Resources.resources
+C:\Users\947934\Downloads\Ordenacao\Ordenacao\obj\Debug\Ordenacao.csproj.GenerateResource.Cache

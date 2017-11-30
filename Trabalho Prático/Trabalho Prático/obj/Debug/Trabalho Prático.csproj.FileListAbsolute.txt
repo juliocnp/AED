@@ -1,0 +1,22 @@
+C:\temp\Trabalho Prático\Trabalho Prático\bin\Debug\Trabalho Prático.exe.config
+C:\Users\947934\Downloads\Trabalho Prático\Trabalho Prático\bin\Debug\Trabalho Prático.exe.config
+C:\Users\947934\Downloads\Trabalho Prático\Trabalho Prático\bin\Debug\Trabalho Prático.exe
+C:\Users\947934\Downloads\Trabalho Prático\Trabalho Prático\bin\Debug\Trabalho Prático.pdb
+C:\Users\947934\Downloads\Trabalho Prático\Trabalho Prático\obj\Debug\Trabalho Prático.csprojResolveAssemblyReference.cache
+C:\Users\947934\Downloads\Trabalho Prático\Trabalho Prático\obj\Debug\Trabalho_Prático.FormEscolha.resources
+C:\Users\947934\Downloads\Trabalho Prático\Trabalho Prático\obj\Debug\Trabalho_Prático.Properties.Resources.resources
+C:\Users\947934\Downloads\Trabalho Prático\Trabalho Prático\obj\Debug\Trabalho Prático.csproj.GenerateResource.Cache
+C:\Users\947934\Downloads\Trabalho Prático\Trabalho Prático\obj\Debug\Trabalho Prático.exe
+C:\Users\947934\Downloads\Trabalho Prático\Trabalho Prático\obj\Debug\Trabalho Prático.pdb
+C:\Users\julio\Desktop\Faculdade\Algoritmos e Estruturas de Dados\Trabalho Prático\Trabalho Prático\bin\Debug\Trabalho Prático.exe.config
+C:\Users\julio\Desktop\Faculdade\Algoritmos e Estruturas de Dados\Trabalho Prático\Trabalho Prático\bin\Debug\Trabalho Prático.exe
+C:\Users\julio\Desktop\Faculdade\Algoritmos e Estruturas de Dados\Trabalho Prático\Trabalho Prático\bin\Debug\Trabalho Prático.pdb
+C:\Users\julio\Desktop\Faculdade\Algoritmos e Estruturas de Dados\Trabalho Prático\Trabalho Prático\obj\Debug\Trabalho Prático.csprojResolveAssemblyReference.cache
+C:\Users\julio\Desktop\Faculdade\Algoritmos e Estruturas de Dados\Trabalho Prático\Trabalho Prático\obj\Debug\Trabalho_Prático.FormEscolha.resources
+C:\Users\julio\Desktop\Faculdade\Algoritmos e Estruturas de Dados\Trabalho Prático\Trabalho Prático\obj\Debug\Trabalho_Prático.Properties.Resources.resources
+C:\Users\julio\Desktop\Faculdade\Algoritmos e Estruturas de Dados\Trabalho Prático\Trabalho Prático\obj\Debug\Trabalho Prático.csproj.GenerateResource.Cache
+C:\Users\julio\Desktop\Faculdade\Algoritmos e Estruturas de Dados\Trabalho Prático\Trabalho Prático\obj\Debug\Trabalho Prático.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Faculdade\Algoritmos e Estruturas de Dados\Trabalho Prático\Trabalho Prático\obj\Debug\Trabalho Prático.exe
+C:\Users\julio\Desktop\Faculdade\Algoritmos e Estruturas de Dados\Trabalho Prático\Trabalho Prático\obj\Debug\Trabalho Prático.pdb
+C:\Users\julio\Desktop\Faculdade\Algoritmos e Estruturas de Dados\Trabalho Prático\Trabalho Prático\obj\Debug\Trabalho_Prático.Form2.resources
+C:\Users\julio\Desktop\Faculdade\Algoritmos e Estruturas de Dados\Trabalho Prático\Trabalho Prático\obj\Debug\Trabalho_Prático.Form3.resources
